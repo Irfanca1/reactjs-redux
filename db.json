@@ -1,0 +1,25 @@
+{
+"users": [
+    {
+      "id": 1,
+      "nama": "Irfan",
+      "alamat": "Bandung",
+      "umur": 21,
+      "nohp": "08888888888"
+    },
+    {
+      "id": 2,
+      "nama": "Choiruddin",
+      "alamat": "Solo",
+      "umur": 19,
+      "nohp": "08737938578237"
+    },
+    {
+      "id": 3,
+      "nama": "Anwar",
+      "alamat": "Surabaya",
+      "umur": 26,
+      "nohp": "0891832771923"
+    }
+  ]
+  }
